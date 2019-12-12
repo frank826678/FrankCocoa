@@ -6,8 +6,23 @@
 	<dict>
 		<key>SmallFrankCoco.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7E16BF7323A0EAE900297720</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7E16BF7C23A0EAE900297720</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
