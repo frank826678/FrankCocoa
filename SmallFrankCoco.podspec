@@ -17,10 +17,10 @@ s.license = "MIT"
 s.author = { "Frank Lin" => "frank826678@gmail.com" }
 
 # 5
-s.homepage = "http://github.com/frank826678/FrankCocoa.git"
+s.homepage = "https://github.com/frank826678/FrankCocoa.git"
 
 # 6
-s.source = { :git => "http://github.com/frank826678/FrankCocoa.git", :tag => "0.1.2"}
+s.source = { :git => "https://github.com/frank826678/FrankCocoa.git", :tag => "0.1.2"}
 
 # 7
 # s.framework = "UIKit"
